@@ -7,6 +7,7 @@
     "contactmessage": "Feel free to reach out if you'd like to discuss a project, collaborate, or have any questions. You can contact me at m.zubair.h1999@gmail.com. I look forward to connecting!",
     "email": "m.zubair.h1999@gmail.com",
     "phone": "07460510112",
+    "successMessage": "07460510112",
     "github": "#",
     "project": "#",
     "address": {
@@ -77,6 +78,10 @@
       {
         "name": "VueJs",
         "level": "55%"
+      },
+      {
+        "name": "NextJS",
+        "level": "90%"
       },
       {
         "name": "ReactJs",
