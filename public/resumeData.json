@@ -1,0 +1,179 @@
+{
+  "main": {
+    "name": "Muhammad Zubair",
+    "description": "I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image": "profilepic.jpg",
+    "bio": "I’m a Front-End Developer specializing in React.js, with a strong background in project management. I studied at Ravensbourne University London, where I refined my skills in web development. I’ve worked as a Senior Developer and Team Lead at Dynamic Logix, and also contributed to building dynamic websites and API integrations at MZH Production. I'm passionate about creating efficient, user-friendly web applications.",
+    "contactmessage": "Feel free to reach out if you'd like to discuss a project, collaborate, or have any questions. You can contact me at m.zubair.h1999@gmail.com. I look forward to connecting!",
+    "email": "m.zubair.h1999@gmail.com",
+    "phone": "07460510112",
+    "github": "#",
+    "project": "#",
+    "address": {
+      "street": "Rowley Road",
+      "city": "Reading",
+      "state": "United Kingdom",
+      "zip": "RG2 0DR"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "#",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Ravensbourne Univesity London",
+        "degree": "Masters in Computer Science",
+        "graduated": "August 2023",
+        "description": "I studied at Ravensbourne University London, where I honed my skills in React.js front-end development and project management."
+      }
+    ],
+    "work": [
+      {
+        "company": "Dynamic Logix",
+        "title": "Senior UI-UX Developer",
+        "years": "March 2018 - 2023",
+        "description": "I worked at Dynamic Logix as a Senior Developer and Team Lead, where I led projects and further developed my expertise in React.js and team management."
+      },
+      {
+        "company": "MZHproduction",
+        "title": "Front-end Developer",
+        "years": "August 2023 - Present",
+        "description": "I worked at MZH Production, where I served as a Senior Developer and Team Lead. During my time there, I played a key role in developing dynamic websites using React.js, while also managing and integrating APIs to ensure seamless functionality across various platforms. I led a team of developers, overseeing project timelines, collaborating on complex features, and ensuring high-quality deliverables for clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "C#",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Dynamite The Source",
+        "category": "My Website for Ireland motivational Speaker Kim Calvert",
+        "image": "01.jpg",
+        "url": "https://sourcedev.dynamitelifestyle.com/home"
+      },
+      {
+        "title": "Admin Panel",
+        "category": "Admin Portal to control websites from one place",
+        "image": "02.jpg",
+        "url": "https://admindev.dynamitelifestyle.com/"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
