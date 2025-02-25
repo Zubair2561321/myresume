@@ -54,7 +54,8 @@ class Contact extends Component {
         })
         .then(
           () => {
-            console.log("Email Sending SUCCESS!");
+            // console.alert("Thanks for contacing us.");
+            window.alert("Thanks for contacing us.");
           },
           (error) => {
             console.log("FAILED...", error.text);
